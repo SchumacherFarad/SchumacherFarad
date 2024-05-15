@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchumacherFarad
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning OOP
 - 📫 You can reach me by send an e-mail to my personal email address: ferhatkunduraci03@gmail.com
 
 <!---
