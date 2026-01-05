@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SchumacherFarad&locale=en&hide_title=false&layout=compact&card_width=320&size_weight=0.75&count_weight=0.25&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://https://github-readme-stats-nine-smoky-39.vercel.app/api/top-langs?username=SchumacherFarad&locale=en&hide_title=false&layout=compact&card_width=320&size_weight=0.75&count_weight=0.25&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
